@@ -1,7 +1,0 @@
-Taller realizado por Daniel Pérez Gázquez.
-
-Las mayoría de los Assets se han obtenido de la Asset Store de Unity. Los modelos de los 
-personajes, Papyrus, Undyne y Goomba, han sido obtenidos de internet. Los dos primeros tienen 
-su origen en el videojuego Undertale, de Toby Fox; Goomba de la saga de Super Mario, de Nintendo.
-
-Contacto: Plenidag@correo.ugr.es
