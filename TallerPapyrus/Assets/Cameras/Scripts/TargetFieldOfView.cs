@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using UnityEngine;
 
 
@@ -77,3 +77,4 @@ namespace UnityStandardAssets.Cameras
         }
     }
 }
+*/

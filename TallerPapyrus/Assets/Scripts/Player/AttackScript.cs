@@ -44,7 +44,6 @@ public class AttackScript : MonoBehaviour {
 				// Mueve el collider para envolver el cuerpo del Goomba, útil en el caso de que el
 				// Goomba estuviera atacando cuando recibió el ataque (al atacar, su cuerpo se adelanta
 				// respecto a su posición real)
-				SphereCollider theCollider = collidedEntity.GetComponent <SphereCollider> ();
 				Transform actualBody = collidedEntity.transform.Find ("Armature/TopN/TransN/RotN");
 				Vector3 actualPosition = actualBody.position;
 				(collidedEntity.GetComponent <SphereCollider> ()).center = 

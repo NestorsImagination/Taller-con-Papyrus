@@ -7,7 +7,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson {
     [RequireComponent(typeof (ThirdPersonCharacter))]
     public class ThirdPersonUserControl : MonoBehaviour {
 		private ThirdPersonCharacter character; 	// Referencia al script ThirdPersonCharacter del objeto
-		private Transform camera;                  	// Referencia a la cámara principal
+		private Transform theCamera;                  	// Referencia a la cámara principal
 		private Vector3 camFoward;             		// Dirección a donde está mirando la camara
 
 		private Vector3 movement;					// Dirección a donde ha de moverse el personaje
@@ -18,7 +18,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson {
         private void Start() {
             // Obtiene la cámara principal
             if (Camera.main != null) {
-                camera = Camera.main.transform;
+                theCamera = Camera.main.transform;
             } else {
                 Debug.LogWarning("Warning: No camera found");
             }
@@ -41,15 +41,15 @@ namespace UnityStandardAssets.Characters.ThirdPerson {
 			float v = Input.GetAxis("Vertical");
 
             // Calcula la dirección a la que se moverá el personaje
-            if (camera != null) {
+            if (theCamera != null) {
                 // Calcula la dirección relativa a la cámara
 
 				// camFoward es el vector de dirección de la cámara eliminando 
 				// la componente vertical y normalizado
-                camFoward = Vector3.Scale(camera.forward, new Vector3(1, 0, 1)).normalized;
+                camFoward = Vector3.Scale(theCamera.forward, new Vector3(1, 0, 1)).normalized;
 
 				// Dirección de movimiento objetivo según la cámara
-                movement = v*camFoward + h*camera.right;
+                movement = v*camFoward + h*theCamera.right;
 
 				// Normaliza el vector de movimiento
 				if (movement != Vector3.zero)
