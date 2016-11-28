@@ -2,7 +2,7 @@
 
 ![Presentación](https://github.com/NestorsImagination/Taller-con-Papyrus/raw/master/Capturas/UndyneCartel.png)
 
-Taller realizado por Daniel Pérez Gázquez para la asociación Granada Jam. Está hecho con fines educativos, por lo que algunas cosas pueden ser mejorables y pueden existir algunos bugs. Puedes descargarlo y experimentar con él. Todo el código principal ha sido comentado para facilitar su comprensión.
+Taller realizado por Daniel Pérez Gázquez para la asociación Granada Jam. Es un proyecto de Unity hecho con fines educativos, por lo que algunas cosas pueden ser mejorables y pueden existir algunos bugs. Los modelos están en el formato de Blender. Puedes descargarlo y experimentar con él. Todo el código principal ha sido comentado para facilitar su comprensión.
 
 El proyecto es un ejemplo de videojuego del género Plataformas 3D, e incluye:
 
@@ -13,7 +13,7 @@ El proyecto es un ejemplo de videojuego del género Plataformas 3D, e incluye:
 
 Capturas:
 
-![Presentación](https://github.com/NestorsImagination/Taller-con-Papyrus/raw/master/Capturas/CapturaU.png)
+![Presentación](https://github.com/NestorsImagination/Taller-con-Papyrus/raw/master/Capturas/CapturaU.jpg)
 ![Presentación](https://github.com/NestorsImagination/Taller-con-Papyrus/raw/master/Capturas/CapturaP.png)
 
 La mayoría de los Assets se han obtenido de la Asset Store de Unity o de internet. Los modelos de los personajes Papyrus y Undyne pertenecen al videojuego Undertale, de Toby Fox, y Goomba a la saga de Super Mario, de Nintendo, y han sido descargados de:
