@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 91983d6daa85a974cb3a283d5d14cdd9
+timeCreated: 1462116762
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: archmodels76_029_01
+    100002: archmodels76_029_02
+    100004: archmodels76_029_03
+    100006: archmodels76_029_04
+    100008: archmodels76_029_05
+    100010: archmodels76_029_06
+    100012: archmodels76_029_06_MeshPart0
+    100014: archmodels76_029_06_MeshPart1
+    100016: archmodels76_029_06_MeshPart2
+    100018: archmodels76_029_06_MeshPart3
+    100020: archmodels76_029_06_MeshPart4
+    100022: archmodels76_029_07
+    100024: //RootNode
+    400000: archmodels76_029_01
+    400002: archmodels76_029_02
+    400004: archmodels76_029_03
+    400006: archmodels76_029_04
+    400008: archmodels76_029_05
+    400010: archmodels76_029_06
+    400012: archmodels76_029_06_MeshPart0
+    400014: archmodels76_029_06_MeshPart1
+    400016: archmodels76_029_06_MeshPart2
+    400018: archmodels76_029_06_MeshPart3
+    400020: archmodels76_029_06_MeshPart4
+    400022: archmodels76_029_07
+    400024: //RootNode
+    2300000: archmodels76_029_01
+    2300002: archmodels76_029_02
+    2300004: archmodels76_029_03
+    2300006: archmodels76_029_04
+    2300008: archmodels76_029_05
+    2300010: archmodels76_029_06_MeshPart0
+    2300012: archmodels76_029_06_MeshPart1
+    2300014: archmodels76_029_06_MeshPart2
+    2300016: archmodels76_029_06_MeshPart3
+    2300018: archmodels76_029_06_MeshPart4
+    2300020: archmodels76_029_07
+    3300000: archmodels76_029_01
+    3300002: archmodels76_029_02
+    3300004: archmodels76_029_03
+    3300006: archmodels76_029_04
+    3300008: archmodels76_029_05
+    3300010: archmodels76_029_06_MeshPart0
+    3300012: archmodels76_029_06_MeshPart1
+    3300014: archmodels76_029_06_MeshPart2
+    3300016: archmodels76_029_06_MeshPart3
+    3300018: archmodels76_029_06_MeshPart4
+    3300020: archmodels76_029_07
+    4300000: archmodels76_029_07
+    4300002: archmodels76_029_01
+    4300004: archmodels76_029_02
+    4300006: archmodels76_029_06_MeshPart0
+    4300008: archmodels76_029_06_MeshPart1
+    4300010: archmodels76_029_06_MeshPart2
+    4300012: archmodels76_029_06_MeshPart3
+    4300014: archmodels76_029_06_MeshPart4
+    4300016: archmodels76_029_04
+    4300018: archmodels76_029_03
+    4300020: archmodels76_029_05
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

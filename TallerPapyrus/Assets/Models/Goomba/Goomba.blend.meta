@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: ae9f09263f0872a4ea80598416cd1bfa
+timeCreated: 1480105002
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BodyM
+    100004: BustN
+    100006: //RootNode
+    100008: HeadN
+    100010: HipN
+    100012: JawN
+    100014: LBrowJa
+    100016: LBrowJb
+    100018: LBrowJc
+    100020: LBrowN
+    100022: LFootJ
+    100024: LKneeJ
+    100026: LLegN
+    100028: LToeN
+    100030: MouthN
+    100032: NeckN
+    100034: polygon0
+    100036: polygon1
+    100038: polygon2
+    100040: polygon3
+    100042: polygon4
+    100044: polygon5
+    100046: RBrowJa
+    100048: RBrowJb
+    100050: RBrowJc
+    100052: RBrowN
+    100054: RFootJ
+    100056: RKneeJ
+    100058: RLegN
+    100060: RotN
+    100062: RToeN
+    100064: ThrowN
+    100066: TopN
+    100068: TransN
+    100070: XRotN
+    400000: Armature
+    400002: BodyM
+    400004: BustN
+    400006: //RootNode
+    400008: HeadN
+    400010: HipN
+    400012: JawN
+    400014: LBrowJa
+    400016: LBrowJb
+    400018: LBrowJc
+    400020: LBrowN
+    400022: LFootJ
+    400024: LKneeJ
+    400026: LLegN
+    400028: LToeN
+    400030: MouthN
+    400032: NeckN
+    400034: polygon0
+    400036: polygon1
+    400038: polygon2
+    400040: polygon3
+    400042: polygon4
+    400044: polygon5
+    400046: RBrowJa
+    400048: RBrowJb
+    400050: RBrowJc
+    400052: RBrowN
+    400054: RFootJ
+    400056: RKneeJ
+    400058: RLegN
+    400060: RotN
+    400062: RToeN
+    400064: ThrowN
+    400066: TopN
+    400068: TransN
+    400070: XRotN
+    4300000: polygon5
+    4300002: polygon4
+    4300004: polygon3
+    4300006: polygon2
+    4300008: polygon1
+    4300010: polygon0
+    7400000: Default Take
+    7400002: Attack
+    7400004: Base
+    7400006: Idle
+    7400008: Run
+    9500000: //RootNode
+    13700000: polygon0
+    13700002: polygon1
+    13700004: polygon2
+    13700006: polygon3
+    13700008: polygon4
+    13700010: polygon5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/TopN
+        weight: 1
+      - path: Armature/TopN/BodyM
+        weight: 1
+      - path: Armature/TopN/TransN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/JawN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb/LBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/MouthN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb/RBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ/LToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ/RToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/ThrowN
+        weight: 1
+      - path: polygon0
+        weight: 1
+      - path: polygon1
+        weight: 1
+      - path: polygon2
+        weight: 1
+      - path: polygon3
+        weight: 1
+      - path: polygon4
+        weight: 1
+      - path: polygon5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Attack
+      firstFrame: -1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/TopN
+        weight: 1
+      - path: Armature/TopN/BodyM
+        weight: 1
+      - path: Armature/TopN/TransN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/JawN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb/LBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/MouthN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb/RBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ/LToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ/RToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/ThrowN
+        weight: 1
+      - path: polygon0
+        weight: 1
+      - path: polygon1
+        weight: 1
+      - path: polygon2
+        weight: 1
+      - path: polygon3
+        weight: 1
+      - path: polygon4
+        weight: 1
+      - path: polygon5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Base
+      takeName: Base
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/TopN
+        weight: 1
+      - path: Armature/TopN/BodyM
+        weight: 1
+      - path: Armature/TopN/TransN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/JawN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb/LBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/MouthN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb/RBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ/LToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ/RToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/ThrowN
+        weight: 1
+      - path: polygon0
+        weight: 1
+      - path: polygon1
+        weight: 1
+      - path: polygon2
+        weight: 1
+      - path: polygon3
+        weight: 1
+      - path: polygon4
+        weight: 1
+      - path: polygon5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/TopN
+        weight: 1
+      - path: Armature/TopN/BodyM
+        weight: 1
+      - path: Armature/TopN/TransN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/JawN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb/LBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/MouthN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb/RBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ/LToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ/RToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/ThrowN
+        weight: 1
+      - path: polygon0
+        weight: 1
+      - path: polygon1
+        weight: 1
+      - path: polygon2
+        weight: 1
+      - path: polygon3
+        weight: 1
+      - path: polygon4
+        weight: 1
+      - path: polygon5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: -1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.43921942
+        functionName: playStepSound
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.95874274
+        functionName: playStepSound
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/TopN
+        weight: 1
+      - path: Armature/TopN/BodyM
+        weight: 1
+      - path: Armature/TopN/TransN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/JawN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/LBrowN/LBrowJa/LBrowJb/LBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/MouthN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/BustN/NeckN/HeadN/RBrowN/RBrowJa/RBrowJb/RBrowJc
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/LLegN/LKneeJ/LFootJ/LToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/HipN/RLegN/RKneeJ/RFootJ/RToeN
+        weight: 1
+      - path: Armature/TopN/TransN/RotN/XRotN/ThrowN
+        weight: 1
+      - path: polygon0
+        weight: 1
+      - path: polygon1
+        weight: 1
+      - path: polygon2
+        weight: 1
+      - path: polygon3
+        weight: 1
+      - path: polygon4
+        weight: 1
+      - path: polygon5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: TopN
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: 801a831a0ee12e847be9f3cefdb7eab7
+timeCreated: 1479600513
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature_001
+    100002: B_Face_Boca_Baixo_1_D
+    100004: B_Face_Boca_Baixo_1_E
+    100006: B_Face_Boca_Baixo_Meio
+    100008: B_Face_Boca_Cima_1_D
+    100010: B_Face_Boca_Cima_1_E
+    100012: B_Face_Boca_Cima_Meio
+    100014: B_Face_Boca_D
+    100016: B_Face_Boca_E
+    100018: B_Face_Dente_baixo
+    100020: B_Face_Dente_Cima
+    100022: B_Face_L_ngua_1
+    100024: B_Face_Maxilar
+    100026: B_Face_Olho_Baixo_1_D
+    100028: B_Face_Olho_Baixo_1_E
+    100030: B_Face_Olho_Baixo_2_D
+    100032: B_Face_Olho_Baixo_2_E
+    100034: B_Face_Olho_Baixo_3_D
+    100036: B_Face_Olho_Baixo_3_E
+    100038: B_Face_Olho_Cima_1_D
+    100040: B_Face_Olho_Cima_1_E
+    100042: B_Face_Olho_Cima_2_D
+    100044: B_Face_Olho_Cima_2_E
+    100046: B_Face_Olho_Cima_3_D
+    100048: B_Face_Olho_Cima_3_E
+    100050: B_Face_Testa_1_D
+    100052: B_Face_Testa_1_E
+    100054: B_Face_Testa_2_D
+    100056: B_Face_Testa_2_E
+    100058: B_Face_Testa_3_D
+    100060: B_Face_Testa_3_E
+    100062: B_Undyne_Antebra_o_D
+    100064: B_Undyne_Antebra_o_E
+    100066: B_Undyne_Anular_1_D
+    100068: B_Undyne_Anular_1_E
+    100070: B_Undyne_Anular_2_D
+    100072: B_Undyne_Anular_2_E
+    100074: B_Undyne_Anular_3_D
+    100076: B_Undyne_Anular_3_E
+    100078: B_Undyne_Bra_o_D
+    100080: B_Undyne_Bra_o_E
+    100082: B_Undyne_Bra_o_Ex_D
+    100084: B_Undyne_Bra_o_Ex_E
+    100086: B_Undyne_Cabe_a
+    100088: B_Undyne_Cabelo_1
+    100090: B_Undyne_Cabelo_2
+    100092: B_Undyne_Cabelo_3
+    100094: B_Undyne_Cabelo_4
+    100096: B_Undyne_Cabelo_5
+    100098: B_Undyne_Cabelo_6
+    100100: B_Undyne_Coxa_D
+    100102: B_Undyne_Coxa_E
+    100104: B_Undyne_Coxa_Ex_D
+    100106: B_Undyne_Coxa_Ex_E
+    100108: B_Undyne_DedosP__D
+    100110: B_Undyne_DedosP__E
+    100112: B_Undyne_Indicador_1_D
+    100114: B_Undyne_Indicador_1_E
+    100116: B_Undyne_Indicador_2_D
+    100118: B_Undyne_Indicador_2_E
+    100120: B_Undyne_Indicador_3_D
+    100122: B_Undyne_Indicador_3_E
+    100124: B_Undyne_M_dio_1_D
+    100126: B_Undyne_M_dio_1_E
+    100128: B_Undyne_M_dio_2_D
+    100130: B_Undyne_M_dio_2_E
+    100132: B_Undyne_M_dio_3_D
+    100134: B_Undyne_M_dio_3_E
+    100136: B_Undyne_M_o_D
+    100138: B_Undyne_M_o_E
+    100140: B_Undyne_Minimo_1_D
+    100142: B_Undyne_Minimo_1_E
+    100144: B_Undyne_Minimo_2_D
+    100146: B_Undyne_Minimo_2_E
+    100148: B_Undyne_Minimo_3_D
+    100150: B_Undyne_Minimo_3_E
+    100152: B_Undyne_Ombro_D
+    100154: B_Undyne_Ombro_E
+    100156: B_Undyne_Orelha_D
+    100158: B_Undyne_Orelha_E
+    100160: B_Undyne_P__D
+    100162: B_Undyne_P__E
+    100164: B_Undyne_P_lvis
+    100166: B_Undyne_Peito_D
+    100168: B_Undyne_Peito_E
+    100170: B_Undyne_Perna_D
+    100172: B_Undyne_Perna_E
+    100174: B_Undyne_Pesco_o
+    100176: B_Undyne_Polegar_1_D
+    100178: B_Undyne_Polegar_1_E
+    100180: B_Undyne_Polegar_2_D
+    100182: B_Undyne_Polegar_2_E
+    100184: B_Undyne_Polegar_3_D
+    100186: B_Undyne_Polegar_3_E
+    100188: B_Undyne_Ponta_Cabe_a
+    100190: B_Undyne_Pulso_D
+    100192: B_Undyne_Pulso_E
+    100194: B_Undyne_Punho_D
+    100196: B_Undyne_Punho_E
+    100198: B_Undyne_Vertebra_1
+    100200: B_Undyne_Vertebra_2
+    100202: //RootNode
+    100204: Undyne_Bota_D_001
+    100206: Undyne_Bota_E_001
+    100208: Undyne_Cabelo_001
+    100210: Undyne_Cal_a_001
+    100212: Undyne_Camisa_001
+    100214: Undyne_Camisa_Ass_001
+    100216: Undyne_Corpo_001
+    100218: Undyne_La_o_001
+    100220: Undyne_TapaOlho_001
+    400000: Armature_001
+    400002: B_Face_Boca_Baixo_1_D
+    400004: B_Face_Boca_Baixo_1_E
+    400006: B_Face_Boca_Baixo_Meio
+    400008: B_Face_Boca_Cima_1_D
+    400010: B_Face_Boca_Cima_1_E
+    400012: B_Face_Boca_Cima_Meio
+    400014: B_Face_Boca_D
+    400016: B_Face_Boca_E
+    400018: B_Face_Dente_baixo
+    400020: B_Face_Dente_Cima
+    400022: B_Face_L_ngua_1
+    400024: B_Face_Maxilar
+    400026: B_Face_Olho_Baixo_1_D
+    400028: B_Face_Olho_Baixo_1_E
+    400030: B_Face_Olho_Baixo_2_D
+    400032: B_Face_Olho_Baixo_2_E
+    400034: B_Face_Olho_Baixo_3_D
+    400036: B_Face_Olho_Baixo_3_E
+    400038: B_Face_Olho_Cima_1_D
+    400040: B_Face_Olho_Cima_1_E
+    400042: B_Face_Olho_Cima_2_D
+    400044: B_Face_Olho_Cima_2_E
+    400046: B_Face_Olho_Cima_3_D
+    400048: B_Face_Olho_Cima_3_E
+    400050: B_Face_Testa_1_D
+    400052: B_Face_Testa_1_E
+    400054: B_Face_Testa_2_D
+    400056: B_Face_Testa_2_E
+    400058: B_Face_Testa_3_D
+    400060: B_Face_Testa_3_E
+    400062: B_Undyne_Antebra_o_D
+    400064: B_Undyne_Antebra_o_E
+    400066: B_Undyne_Anular_1_D
+    400068: B_Undyne_Anular_1_E
+    400070: B_Undyne_Anular_2_D
+    400072: B_Undyne_Anular_2_E
+    400074: B_Undyne_Anular_3_D
+    400076: B_Undyne_Anular_3_E
+    400078: B_Undyne_Bra_o_D
+    400080: B_Undyne_Bra_o_E
+    400082: B_Undyne_Bra_o_Ex_D
+    400084: B_Undyne_Bra_o_Ex_E
+    400086: B_Undyne_Cabe_a
+    400088: B_Undyne_Cabelo_1
+    400090: B_Undyne_Cabelo_2
+    400092: B_Undyne_Cabelo_3
+    400094: B_Undyne_Cabelo_4
+    400096: B_Undyne_Cabelo_5
+    400098: B_Undyne_Cabelo_6
+    400100: B_Undyne_Coxa_D
+    400102: B_Undyne_Coxa_E
+    400104: B_Undyne_Coxa_Ex_D
+    400106: B_Undyne_Coxa_Ex_E
+    400108: B_Undyne_DedosP__D
+    400110: B_Undyne_DedosP__E
+    400112: B_Undyne_Indicador_1_D
+    400114: B_Undyne_Indicador_1_E
+    400116: B_Undyne_Indicador_2_D
+    400118: B_Undyne_Indicador_2_E
+    400120: B_Undyne_Indicador_3_D
+    400122: B_Undyne_Indicador_3_E
+    400124: B_Undyne_M_dio_1_D
+    400126: B_Undyne_M_dio_1_E
+    400128: B_Undyne_M_dio_2_D
+    400130: B_Undyne_M_dio_2_E
+    400132: B_Undyne_M_dio_3_D
+    400134: B_Undyne_M_dio_3_E
+    400136: B_Undyne_M_o_D
+    400138: B_Undyne_M_o_E
+    400140: B_Undyne_Minimo_1_D
+    400142: B_Undyne_Minimo_1_E
+    400144: B_Undyne_Minimo_2_D
+    400146: B_Undyne_Minimo_2_E
+    400148: B_Undyne_Minimo_3_D
+    400150: B_Undyne_Minimo_3_E
+    400152: B_Undyne_Ombro_D
+    400154: B_Undyne_Ombro_E
+    400156: B_Undyne_Orelha_D
+    400158: B_Undyne_Orelha_E
+    400160: B_Undyne_P__D
+    400162: B_Undyne_P__E
+    400164: B_Undyne_P_lvis
+    400166: B_Undyne_Peito_D
+    400168: B_Undyne_Peito_E
+    400170: B_Undyne_Perna_D
+    400172: B_Undyne_Perna_E
+    400174: B_Undyne_Pesco_o
+    400176: B_Undyne_Polegar_1_D
+    400178: B_Undyne_Polegar_1_E
+    400180: B_Undyne_Polegar_2_D
+    400182: B_Undyne_Polegar_2_E
+    400184: B_Undyne_Polegar_3_D
+    400186: B_Undyne_Polegar_3_E
+    400188: B_Undyne_Ponta_Cabe_a
+    400190: B_Undyne_Pulso_D
+    400192: B_Undyne_Pulso_E
+    400194: B_Undyne_Punho_D
+    400196: B_Undyne_Punho_E
+    400198: B_Undyne_Vertebra_1
+    400200: B_Undyne_Vertebra_2
+    400202: //RootNode
+    400204: Undyne_Bota_D_001
+    400206: Undyne_Bota_E_001
+    400208: Undyne_Cabelo_001
+    400210: Undyne_Cal_a_001
+    400212: Undyne_Camisa_001
+    400214: Undyne_Camisa_Ass_001
+    400216: Undyne_Corpo_001
+    400218: Undyne_La_o_001
+    400220: Undyne_TapaOlho_001
+    4300000: Undyne_Camisa_Ass_001
+    4300002: Undyne_Bota_D_001
+    4300004: Undyne_Cal_a_001
+    4300006: Undyne_Corpo_001
+    4300008: Undyne_TapaOlho_001
+    4300010: Undyne_Cabelo_001
+    4300012: Undyne_Bota_E_001
+    4300014: Undyne_La_o_001
+    4300016: Undyne_Camisa_001
+    7400000: Default Take
+    7400002: Armature_001_Take_001_BaseLayer
+    7400004: Armature_Take_001_BaseLayer
+    9500000: //RootNode
+    13700000: Undyne_Bota_D_001
+    13700002: Undyne_Bota_E_001
+    13700004: Undyne_Cabelo_001
+    13700006: Undyne_Cal_a_001
+    13700008: Undyne_Camisa_001
+    13700010: Undyne_Camisa_Ass_001
+    13700012: Undyne_Corpo_001
+    13700014: Undyne_La_o_001
+    13700016: Undyne_TapaOlho_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.68
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: B_Undyne_P_lvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Coxa_E
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Coxa_D
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Perna_E
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Perna_D
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_P__E
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_P__D
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Vertebra_1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Vertebra_2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Cabe_a
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Face_Maxilar
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Ombro_E
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Ombro_D
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Bra_o_E
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Bra_o_D
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Antebra_o_E
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Antebra_o_D
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_M_o_E
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_M_o_D
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_DedosP__E
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_DedosP__D
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Face_Boca_Baixo_1_E
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Face_Boca_Baixo_1_D
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Face_Boca_Baixo_Meio
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Polegar_1_E
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Polegar_2_E
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Polegar_3_E
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Indicador_1_E
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Indicador_2_E
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Indicador_3_E
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_M_dio_1_E
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_M_dio_2_E
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_M_dio_3_E
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Anular_1_E
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Anular_2_E
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Anular_3_E
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Minimo_1_E
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Minimo_2_E
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Minimo_3_E
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Polegar_1_D
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Polegar_2_D
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Polegar_3_D
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Indicador_1_D
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Indicador_2_D
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Indicador_3_D
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_M_dio_1_D
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_M_dio_2_D
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_M_dio_3_D
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Anular_1_D
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Anular_2_D
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Anular_3_D
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Minimo_1_D
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Minimo_2_D
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Undyne_Minimo_3_D
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Undyne(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000005960465, y: -0, z: -0, w: 1}
+      scale: {x: 0.0254, y: 0.0254, z: 0.0254}
+      transformModified: 1
+    - name: B_Undyne_P_lvis
+      position: {x: -0.0000000032908465, y: 42.73891, z: 0.07528851}
+      rotation: {x: -0.48835212, y: 0.51138264, z: -0.48835212, w: 0.51138264}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Coxa_D
+      position: {x: -0.061362296, y: -0.006081486, z: 3.9038835}
+      rotation: {x: 0.01947253, y: 0.99981034, z: 0.0002507759, w: -0.00003120851}
+      scale: {x: 1, y: 1.0000654, z: 0.99999964}
+      transformModified: 1
+    - name: B_Undyne_Perna_D
+      position: {x: -18.448057, y: 0.0000018182025, z: 0.00000030614086}
+      rotation: {x: -0.0000131450815, y: -0.00000012155436, z: -0.008183778, w: 0.9999665}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B_Undyne_P__D
+      position: {x: -18.811216, y: -0.0000011532381, z: -0.000003005045}
+      rotation: {x: -0.00035076952, y: 0.0004536886, z: 0.47585028, w: 0.87952614}
+      scale: {x: 0.99999964, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: B_Undyne_DedosP__D
+      position: {x: -6.979083, y: 0.000030250494, z: -0.00000045114663}
+      rotation: {x: 0.00006624757, y: -0.00053262047, z: 0.29684767, w: 0.9549247}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Coxa_Ex_D
+      position: {x: -0.000019344367, y: -0.000015245732, z: 0.000005240023}
+      rotation: {x: 0.00081266847, y: -0.70710623, z: 0.00043557017, w: 0.7071067}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: B_Undyne_Coxa_E
+      position: {x: -0.061359663, y: -0.006079691, z: -3.9038393}
+      rotation: {x: -0.000016943139, y: 0.00016446534, z: 0.9998104, w: 0.01947354}
+      scale: {x: 0.99999976, y: 1.0000647, z: 0.9999995}
+      transformModified: 1
+    - name: B_Undyne_Perna_E
+      position: {x: -18.448057, y: 0.000001346632, z: -0.00000009699004}
+      rotation: {x: 0.000011041327, y: -0.00000010139731, z: 0.0081837885, w: 0.9999665}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_P__E
+      position: {x: -18.811224, y: 0.000002371548, z: -0.0000025501383}
+      rotation: {x: 0.00026760373, y: 0.00047215447, z: -0.47585228, w: 0.87952507}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1}
+      transformModified: 1
+    - name: B_Undyne_DedosP__E
+      position: {x: -6.9790697, y: -0.00003151575, z: -0.0000004804367}
+      rotation: {x: -0.00006423901, y: -0.00052525394, z: -0.2965029, w: 0.9550318}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Coxa_Ex_E
+      position: {x: -0.000008558992, y: 0.00001565239, z: 0.000012579505}
+      rotation: {x: -0.0011369942, y: -0.7071061, z: -0.001153561, w: 0.7071057}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Vertebra_1
+      position: {x: -7.169866, y: -0.00004612446, z: -0.0000051885336}
+      rotation: {x: 0.0000021606365, y: 0.0000006371808, z: -0.036474954, w: 0.9993346}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: B_Undyne_Vertebra_2
+      position: {x: -6.8919196, y: 0.000009828826, z: -6.33896e-12}
+      rotation: {x: -0.0000023705982, y: 0.0000005480576, z: -0.029549446, w: 0.99956334}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Pesco_o
+      position: {x: -8.622425, y: 0.000007700912, z: -0.000015563968}
+      rotation: {x: 0.00000095102826, y: -0.00000072784275, z: 0.070626214, w: 0.99750286}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Cabe_a
+      position: {x: -2.808674, y: 0.0000030398667, z: 0.0000051880033}
+      rotation: {x: 0.000008356629, y: -0.00000020225605, z: -0.024369901, w: 0.99970305}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Ponta_Cabe_a
+      position: {x: -14.0716095, y: 0.000001581381, z: -1.4533641e-11}
+      rotation: {x: -0.00000035474068, y: 0.0000000017174347, z: -0.0044549857, w: 0.9999901}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Orelha_D
+      position: {x: -4.9791236, y: 1.3195473, z: 5.32571}
+      rotation: {x: -0.5844042, y: 0.73129123, z: 0.24003333, w: 0.2570387}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Orelha_E
+      position: {x: -4.9790797, y: 1.319342, z: -5.3255534}
+      rotation: {x: -0.25704813, y: -0.2400483, z: -0.7312873, w: 0.5843988}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Cabelo_1
+      position: {x: -12.86115, y: 4.7424707, z: -0.00010880208}
+      rotation: {x: -0.000010893381, y: -0.0000016794236, z: -0.335391, w: 0.942079}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000006}
+      transformModified: 1
+    - name: B_Undyne_Cabelo_2
+      position: {x: -2.9963624, y: 0.000007781935, z: -0.000010375939}
+      rotation: {x: -0.00000040750646, y: -0.00000046328412, z: -0.65770906, w: 0.75327206}
+      scale: {x: 0.99999934, y: 0.9999995, z: 0.99999976}
+      transformModified: 1
+    - name: B_Undyne_Cabelo_3
+      position: {x: -3.7224452, y: -0.000029182369, z: -0.0000051879883}
+      rotation: {x: -0.00000066272855, y: 0.0000037012776, z: -0.49196836, w: 0.8706131}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+      transformModified: 1
+    - name: B_Undyne_Cabelo_4
+      position: {x: -5.8791723, y: -0.00012913036, z: -0.00003631593}
+      rotation: {x: 0.0000016758916, y: -0.0000020283767, z: 0.0729389, w: 0.99733645}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999995}
+      transformModified: 1
+    - name: B_Undyne_Cabelo_5
+      position: {x: -6.643498, y: 0.0000019452414, z: -9.895361e-12}
+      rotation: {x: -0.000000057492066, y: 0.00000081258156, z: 0.40138245, w: 0.9159106}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+      transformModified: 1
+    - name: B_Undyne_Cabelo_6
+      position: {x: -4.7728896, y: -0.00000389092, z: 0.000015563981}
+      rotation: {x: -0.0000006083154, y: 0.0000013623353, z: 0.63872105, w: 0.7694384}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999976}
+      transformModified: 1
+    - name: B_Face_Maxilar
+      position: {x: -2.8232164, y: -0.28708974, z: -0.000015572792}
+      rotation: {x: -0.0000062149697, y: 0.000007518947, z: 0.83603805, w: 0.5486715}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B_Face_Dente_baixo
+      position: {x: -3.831444, y: -1.2022784, z: -0.0000047234107}
+      rotation: {x: -0.00000032188686, y: 0.00000014423962, z: -0.059651036, w: 0.9982193}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: B_Face_L_ngua_1
+      position: {x: -1.381515, y: -0.87784445, z: -0.000015634861}
+      rotation: {x: 0.000000011468593, y: -0.00000003924614, z: -0.054095414, w: 0.9985358}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+      transformModified: 1
+    - name: B_Face_Boca_Baixo_1_D
+      position: {x: -5.3045526, y: 0.11052112, z: 1.8107593}
+      rotation: {x: 0.9457164, y: -0.030650998, z: -0.31814182, w: 0.058880597}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Boca_Baixo_Meio
+      position: {x: -6.208273, y: -0.064446166, z: 0.000000024911424}
+      rotation: {x: -0.00000031911978, y: 0.0000001440743, z: -0.05965101, w: 0.9982193}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: B_Face_Boca_Baixo_1_E
+      position: {x: -5.3045435, y: 0.11054539, z: -1.8105246}
+      rotation: {x: 0.05887998, y: -0.3181434, z: -0.030650372, w: 0.94571584}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999995}
+      transformModified: 1
+    - name: B_Face_Boca_D
+      position: {x: -1.901658, y: -3.6694944, z: 3.0178874}
+      rotation: {x: 0.42180428, y: 0.775358, z: 0.03440662, w: 0.46874008}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: B_Face_Boca_Cima_1_D
+      position: {x: -2.1042917, y: -5.470406, z: 1.740881}
+      rotation: {x: 0.67835116, y: 0.64229596, z: -0.25843835, w: 0.2459781}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: B_Face_Boca_Cima_Meio
+      position: {x: -2.4059818, y: -6.3983316, z: 0.00009318749}
+      rotation: {x: -0.0000069023436, y: 0.00000559254, z: 0.68722445, w: 0.7264452}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Boca_Cima_1_E
+      position: {x: -2.1042724, y: -5.4704704, z: -1.7405182}
+      rotation: {x: 0.2459649, y: -0.25842702, z: 0.64230144, w: 0.6783551}
+      scale: {x: 1, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: B_Face_Boca_E
+      position: {x: -1.9016509, y: -3.6696033, z: -3.0174892}
+      rotation: {x: 0.46873236, y: 0.034421124, z: 0.7753574, w: 0.42181283}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Olho_Baixo_3_E
+      position: {x: -5.974153, y: -3.2678304, z: -4.11463}
+      rotation: {x: 0.38677737, y: -0.20099978, z: 0.678007, w: 0.59186906}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Testa_3_E
+      position: {x: -8.543068, y: -3.7383673, z: -4.1383286}
+      rotation: {x: 0.14848867, y: -0.3068072, z: 0.67367595, w: 0.65572953}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Olho_Cima_2_E
+      position: {x: -7.0557904, y: -4.414567, z: -2.9538326}
+      rotation: {x: 0.20923929, y: -0.14590453, z: 0.7280266, w: 0.63632387}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Testa_2_E
+      position: {x: -8.183745, y: -5.0143456, z: -2.527961}
+      rotation: {x: 0.3307546, y: -0.07174457, z: 0.7442173, w: 0.5758427}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B_Face_Olho_Cima_1_E
+      position: {x: -6.1819186, y: -5.16466, z: -1.7204049}
+      rotation: {x: 0.17109014, y: -0.07836722, z: 0.77167994, w: 0.6075334}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: B_Face_Olho_Cima_3_E
+      position: {x: -7.3313117, y: -3.5774665, z: -3.8521535}
+      rotation: {x: 0.38677728, y: -0.20099977, z: 0.67800695, w: 0.5918691}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Olho_Baixo_1_E
+      position: {x: -5.04781, y: -4.871258, z: -1.822634}
+      rotation: {x: 0.17109008, y: -0.07836728, z: 0.77167994, w: 0.6075334}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: B_Face_Testa_1_E
+      position: {x: -6.6855936, y: -5.861889, z: -1.0713874}
+      rotation: {x: 0.413725, y: 0.048080314, z: 0.6929949, w: 0.5884539}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: B_Face_Olho_Baixo_2_E
+      position: {x: -5.1122136, y: -4.1301155, z: -3.0631278}
+      rotation: {x: 0.20923927, y: -0.1459045, z: 0.72802657, w: 0.6363239}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: B_Face_Testa_2_D
+      position: {x: -8.183752, y: -5.014253, z: 2.5283124}
+      rotation: {x: 0.5758366, y: 0.7442153, z: -0.071757965, w: 0.33076674}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Olho_Cima_1_D
+      position: {x: -6.1819334, y: -5.1646, z: 1.7204708}
+      rotation: {x: 0.6075303, y: 0.7716781, z: -0.0783823, w: 0.17110264}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: B_Face_Olho_Cima_2_D
+      position: {x: -7.055808, y: -4.4144583, z: 2.9539778}
+      rotation: {x: 0.6363201, y: 0.72802365, z: -0.14591828, w: 0.2092515}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Olho_Baixo_1_D
+      position: {x: -5.04783, y: -4.8711925, z: 1.8224677}
+      rotation: {x: 0.6075303, y: 0.77167815, z: -0.078382485, w: 0.17110251}
+      scale: {x: 0.9999994, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: B_Face_Testa_1_D
+      position: {x: -6.685601, y: -5.8618526, z: 1.0717642}
+      rotation: {x: 0.58844626, y: 0.6929954, z: 0.04806804, w: 0.41373643}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: B_Face_Testa_3_D
+      position: {x: -8.543087, y: -3.7382133, z: 4.1385283}
+      rotation: {x: 0.65572727, y: 0.67366964, z: -0.3068201, w: 0.14850053}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Olho_Baixo_3_D
+      position: {x: -5.9741726, y: -3.2676818, z: 4.1147203}
+      rotation: {x: 0.5918621, y: 0.6780027, z: -0.20101205, w: 0.38678908}
+      scale: {x: 0.9999998, y: 1, z: 1}
+      transformModified: 1
+    - name: B_Face_Olho_Cima_3_D
+      position: {x: -7.3313107, y: -3.5773273, z: 3.8522458}
+      rotation: {x: 0.5918621, y: 0.6780027, z: -0.20101202, w: 0.3867891}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Olho_Baixo_2_D
+      position: {x: -5.1122317, y: -4.130004, z: 3.0634608}
+      rotation: {x: 0.6363201, y: 0.72802365, z: -0.14591831, w: 0.20925146}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: B_Face_Dente_Cima
+      position: {x: -2.952086, y: -3.9164495, z: 0.000046571728}
+      rotation: {x: -0.0000060763746, y: 0.0000067698056, z: 0.75904953, w: 0.651033}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Peito_D
+      position: {x: -1.9373367, y: -3.3904188, z: 2.408538}
+      rotation: {x: 0.76436234, y: 0.5973465, z: -0.14250664, w: 0.1965179}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: B_Undyne_Peito_E
+      position: {x: -1.9373133, y: -3.3904197, z: -2.408575}
+      rotation: {x: 0.19651718, y: -0.14250918, z: 0.5973469, w: 0.7643618}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Ombro_E
+      position: {x: -8.6224165, y: 0.000017063612, z: -0.000015857682}
+      rotation: {x: 0.35872573, y: 0.57036644, z: 0.5666429, w: -0.47425082}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.99999964}
+      transformModified: 1
+    - name: B_Undyne_Bra_o_E
+      position: {x: -5.897069, y: 0.00000058661794, z: 0.000020914078}
+      rotation: {x: -0.01916727, y: -0.058947936, z: 0.19221689, w: 0.9793929}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Antebra_o_E
+      position: {x: -11.029074, y: -0.0000016261545, z: -0.000000111460686}
+      rotation: {x: 0.000047711655, y: -0.012881216, z: -0.0037112958, w: 0.9999102}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: B_Undyne_Punho_E
+      position: {x: -9.423637, y: 0.0008037582, z: -0.00000015199186}
+      rotation: {x: -0.0012372708, y: 0.009704217, z: 0.000056774417, w: 0.99995214}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_M_o_E
+      position: {x: -1.1845485, y: -0.004766168, z: -0.00028517313}
+      rotation: {x: -0.7062949, y: 0.038845103, z: 0.0019023847, w: 0.7068486}
+      scale: {x: 0.99999964, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_Minimo_1_E
+      position: {x: -5.3785424, y: -1.9439365, z: 0.43081224}
+      rotation: {x: -0.0001066625, y: -0.017821848, z: 0.020817617, w: 0.99962443}
+      scale: {x: 0.9999999, y: 0.99999964, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_Minimo_2_E
+      position: {x: -1.3654317, y: 0.00000043064358, z: -0.00000368036}
+      rotation: {x: -0.0000016402984, y: 0.0000001266917, z: 0.0000013738508, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Minimo_3_E
+      position: {x: -0.9056066, y: 0.00000012665987, z: -0.0000027596811}
+      rotation: {x: 0.0000007041382, y: -0.000006107476, z: -0.0000017265982, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Anular_1_E
+      position: {x: -5.560023, y: -0.6361389, z: 0.01456566}
+      rotation: {x: 0.00036430356, y: -0.021045955, z: 0.02233076, w: 0.99952906}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_Anular_2_E
+      position: {x: -1.8403671, y: -0.00000007472933, z: -0.0000010952122}
+      rotation: {x: -0.0000015062096, y: -0.0000026628136, z: 0.0000006419801, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_Anular_3_E
+      position: {x: -1.0929734, y: -0.0000003825128, z: -0.0000065623667}
+      rotation: {x: -0.0000002830799, y: 0.0000019731426, z: -0.0000007881562, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B_Undyne_M_dio_1_E
+      position: {x: -5.6231613, y: 0.6575916, z: -0.09842109}
+      rotation: {x: 0.0020100584, y: -0.026229456, z: -0.028835364, w: 0.99923795}
+      scale: {x: 1, y: 0.99999976, z: 0.9999998}
+      transformModified: 1
+    - name: B_Undyne_M_dio_2_E
+      position: {x: -1.9503341, y: 0.00000029131772, z: 0.0000060656225}
+      rotation: {x: -0.0000007197337, y: 0.000003286251, z: 0.000000058905314, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B_Undyne_M_dio_3_E
+      position: {x: -1.2280738, y: 0.000000097211455, z: 0.0000014375499}
+      rotation: {x: -0.00000062880514, y: -0.000002068479, z: -0.000000086867885,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Indicador_1_E
+      position: {x: -5.4734616, y: 2.0063126, z: 0.02620346}
+      rotation: {x: 0.0038298864, y: -0.02602539, z: -0.098278806, w: 0.9948112}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: B_Undyne_Indicador_2_E
+      position: {x: -1.7164358, y: -0.00000030905008, z: -0.0000051241636}
+      rotation: {x: -0.0000010809334, y: -0.0000031701293, z: 0.00000012322671, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.9999999}
+      transformModified: 1
+    - name: B_Undyne_Indicador_3_E
+      position: {x: -1.04008, y: -0.000000015199184, z: -0.000006636176}
+      rotation: {x: -0.0000011915331, y: 0.000008293774, z: -0.000000046728353, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Polegar_1_E
+      position: {x: -1.4502165, y: 1.2241141, z: 0.51279205}
+      rotation: {x: 0.019194808, y: 0.059427176, z: -0.39806405, w: 0.91522944}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Polegar_2_E
+      position: {x: -1.9637218, y: -0.0000009727478, z: -0.0000042355064}
+      rotation: {x: 0.3932587, y: 0.014465936, z: 0.03727012, w: 0.9185583}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_Polegar_3_E
+      position: {x: -1.2901176, y: 0.000003080368, z: -0.0000004863739}
+      rotation: {x: 0.00000058859877, y: -0.0000016838302, z: 0.0000016763817, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_Pulso_E
+      position: {x: -9.423641, y: -0.0022358766, z: -0.00021788538}
+      rotation: {x: 0.009602078, y: 0.0000136694525, z: 0.9999539, w: 0.000078154844}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0005941}
+      transformModified: 1
+    - name: B_Undyne_Bra_o_Ex_E
+      position: {x: -0.000001423657, y: -0.0000036635577, z: 0.000010173321}
+      rotation: {x: -0.0038802624, y: -0.003753336, z: 0.7070473, w: 0.7071457}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Ombro_D
+      position: {x: -8.622442, y: 0.000015807163, z: -0.000042574222}
+      rotation: {x: -0.4742541, y: 0.5666396, z: 0.57036626, w: 0.358727}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Bra_o_D
+      position: {x: -5.8970757, y: -0.000013185483, z: 0.000020346642}
+      rotation: {x: 0.019249124, y: -0.05895561, z: -0.1922092, w: 0.9793924}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: B_Undyne_Antebra_o_D
+      position: {x: -11.029069, y: -0.0000025481593, z: -0.00000003039837}
+      rotation: {x: -0.000046599645, y: -0.012951971, z: 0.0035869654, w: 0.9999097}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Punho_D
+      position: {x: -9.423636, y: -0.00079126656, z: -0.0000001013279}
+      rotation: {x: 0.0012372435, y: 0.009704201, z: -0.000057770518, w: 0.99995214}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_M_o_D
+      position: {x: -1.1845715, y: 0.0015541342, z: -0.00006743577}
+      rotation: {x: 0.70621973, y: 0.03890076, z: -0.0018576632, w: 0.70692086}
+      scale: {x: 0.9999997, y: 1, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Minimo_1_D
+      position: {x: -5.37855, y: 1.9439365, z: 0.43082088}
+      rotation: {x: 0.00010794398, y: -0.017825024, z: -0.020819515, w: 0.9996244}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: B_Undyne_Minimo_2_D
+      position: {x: -1.365436, y: 0.00000062189997, z: 0.0000023885282}
+      rotation: {x: 0.00000071070485, y: 9.7081926e-11, z: -0.00000032923586, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: B_Undyne_Minimo_3_D
+      position: {x: -0.9055984, y: -0.00000006966293, z: 0.000004044408}
+      rotation: {x: 0.00000081837896, y: -0.0000003388976, z: 0.0000001625302, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Anular_1_D
+      position: {x: -5.5600305, y: 0.63613796, z: 0.014554096}
+      rotation: {x: -0.00036379677, y: -0.021046327, z: -0.022331355, w: 0.99952906}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_Anular_2_D
+      position: {x: -1.8403693, y: -0.00000004876405, z: -0.0000024746964}
+      rotation: {x: 0.0000011483038, y: 0.000001469085, z: -0.00000023930386, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999976}
+      transformModified: 1
+    - name: B_Undyne_Anular_3_D
+      position: {x: -1.0929723, y: -0.000000404045, z: -0.0000065171453}
+      rotation: {x: 0.00000045880316, y: -0.0000025549666, z: 0.0000006178331, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_M_dio_1_D
+      position: {x: -5.623172, y: -0.65759194, z: -0.09841689}
+      rotation: {x: -0.00200911, y: -0.02622915, z: 0.028835602, w: 0.99923795}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: B_Undyne_M_dio_2_D
+      position: {x: -1.9503324, y: 0.00000017067418, z: 0.0000021236606}
+      rotation: {x: 0.00000068171, y: 0.0000010069783, z: -0.00000002388993, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: B_Undyne_M_dio_3_D
+      position: {x: -1.2280746, y: 0.00000011082739, z: -0.0000006937993}
+      rotation: {x: 0.00000073344773, y: 0.00000016072819, z: -0.000000019138403,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Indicador_1_D
+      position: {x: -5.4734664, y: -2.0063136, z: 0.026210178}
+      rotation: {x: -0.0038291903, y: -0.02602522, z: 0.09827902, w: 0.9948112}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Indicador_2_D
+      position: {x: -1.7164443, y: 0.0000010265783, z: 0.00000021514367}
+      rotation: {x: 0.0000009831073, y: -0.0000014023433, z: -0.00000015457945, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Indicador_3_D
+      position: {x: -1.0400754, y: -0.0000014641881, z: 0.000009423505}
+      rotation: {x: 0.0000010331188, y: 0.0000010534998, z: 0.00000015823824, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Polegar_1_D
+      position: {x: -1.4502234, y: -1.2241101, z: 0.51278156}
+      rotation: {x: -0.01918705, y: 0.05941136, z: 0.39806795, w: 0.915229}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+      transformModified: 1
+    - name: B_Undyne_Polegar_2_D
+      position: {x: -1.9637239, y: 0.0000010538101, z: 0.0000040733817}
+      rotation: {x: -0.39325854, y: 0.014466391, z: -0.037270326, w: 0.91855836}
+      scale: {x: 0.9999998, y: 0.9999997, z: 1.0000001}
+      transformModified: 1
+    - name: B_Undyne_Polegar_3_D
+      position: {x: -1.2901232, y: 0.000001783371, z: 0.000004782677}
+      rotation: {x: -0.00000029802354, y: 0.00000044703458, z: 0.0000007152558, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B_Undyne_Pulso_D
+      position: {x: -9.423657, y: -0.000812088, z: -0.000025828482}
+      rotation: {x: 0.009636275, y: 0.00012615547, z: 0.99995357, w: 0.00021087551}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0008204}
+      transformModified: 1
+    - name: B_Undyne_Bra_o_Ex_D
+      position: {x: -0.000021895534, y: -0.000009922717, z: -0.0000055933}
+      rotation: {x: 0.0037645511, y: -0.0037811678, z: -0.7069958, w: 0.70719767}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: Undyne_Bota_D_001
+      position: {x: 4.09292, y: 1.9513081, z: 3.078177}
+      rotation: {x: 0.7071068, y: -5.392993e-12, z: 6.8772995e-12, w: 0.7071067}
+      scale: {x: -1.6247708, y: -1.6247708, z: -1.6247708}
+      transformModified: 1
+    - name: Undyne_Bota_E_001
+      position: {x: -4.15697, y: 1.9513067, z: 3.078177}
+      rotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1.6247708, y: 1.6247708, z: 1.6247708}
+      transformModified: 1
+    - name: Undyne_Cabelo_001
+      position: {x: 0.00000020227334, y: 80.63356, z: -4.627426}
+      rotation: {x: -0.00000007874899, y: 0.91456306, z: 0.40444344, w: 0.00000017807406}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: Undyne_Cal_a_001
+      position: {x: -0.00000059267, y: 73.257996, z: 0.6688819}
+      rotation: {x: 1, y: -8.883727e-15, z: -2.2200588e-14, w: -0.000000075500154}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: Undyne_Camisa_001
+      position: {x: -0.00000059267, y: 73.257996, z: 0.6688819}
+      rotation: {x: 0.000000018626451, y: 2.2200588e-14, z: -8.8837264e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Undyne_Camisa_Ass_001
+      position: {x: -0.00000059267, y: 73.257996, z: 0.6688819}
+      rotation: {x: 0.000000018626451, y: 2.2200588e-14, z: -8.8837264e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Undyne_Corpo_001
+      position: {x: -0.00000064849866, y: 73.257996, z: 0.66888165}
+      rotation: {x: 0.000000023283064, y: 4.656613e-10, z: -0.0000000018626451, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Undyne_La_o_001
+      position: {x: 0.00000020227225, y: 80.633545, z: -4.6274257}
+      rotation: {x: -0.000000030535563, y: 0.91456306, z: 0.40444344, w: 0.00000006904965}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999998}
+      transformModified: 1
+    - name: Undyne_TapaOlho_001
+      position: {x: -3.5460584, y: 74.647, z: 4.470132}
+      rotation: {x: 0.000000021885135, y: -0.021814888, z: 4.792366e-10, w: 0.99976206}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
