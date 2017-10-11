@@ -1,0 +1,8 @@
+title: Taller con Papyrus
+description: Taller de Unity y Blender realizado para la asociación Granada Jam con fines educativos. Los personajes Papyrus y Undyne pertenecen a Undertale, de Toby Fox. Goomba pertenece a la saga de Super Mario, de Nintendo.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
