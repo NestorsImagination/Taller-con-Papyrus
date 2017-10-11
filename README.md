@@ -2,7 +2,7 @@
 
 ![Presentación](https://github.com/NestorsImagination/Taller-con-Papyrus/raw/master/Capturas/UndyneCartel.png)
 
-_Proyecto actualizado a la versión 5.4.3 de Unity._
+_Proyecto actualizado a la versión 2017.1.0f3 de Unity._
 
 Taller realizado por Daniel Pérez Gázquez para la asociación Granada Jam. Es un proyecto de Unity hecho con fines educativos, por lo que algunas cosas pueden ser mejorables y pueden existir algunos bugs. Los modelos están en el formato de Blender. Puedes descargarlo y experimentar con él. Todo el código principal ha sido comentado para facilitar su comprensión.
 
