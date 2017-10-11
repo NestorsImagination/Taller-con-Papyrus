@@ -2,11 +2,11 @@
 using UnityEngine;
 
 public class NavMeshGoomba : MonoBehaviour {
-	private NavMeshAgent agent;	// El agente tipo NavMeshAgent
+	private UnityEngine.AI.NavMeshAgent agent;	// El agente tipo NavMeshAgent
 	private Animator animator;	// El Animator Controller del Goomba
 
 	void Start () {
-		agent = GetComponent <NavMeshAgent> ();
+		agent = GetComponent <UnityEngine.AI.NavMeshAgent> ();
 		animator = GetComponent <Animator> ();
 
 		animator.applyRootMotion = false;	// No se aplica root motion

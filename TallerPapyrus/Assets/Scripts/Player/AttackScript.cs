@@ -56,8 +56,8 @@ public class AttackScript : MonoBehaviour {
 				// Hace que el Goomba se destruya al colisionar
 				(collidedEntity.GetComponent <GoombaGeneral> ()).die ();
 
-				if (collidedEntity.GetComponent <NavMeshAgent> () != null) {
-					(collidedEntity.GetComponent <NavMeshAgent> ()).enabled = false;
+				if (collidedEntity.GetComponent <UnityEngine.AI.NavMeshAgent> () != null) {
+					(collidedEntity.GetComponent <UnityEngine.AI.NavMeshAgent> ()).enabled = false;
 					(collidedEntity.GetComponent <NavMeshGoomba> ()).enabled = false;
 				}
 

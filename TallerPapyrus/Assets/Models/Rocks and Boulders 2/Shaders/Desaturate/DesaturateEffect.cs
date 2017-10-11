@@ -1,7 +1,9 @@
 using UnityEngine;
+using UnityStandardAssets.ImageEffects;
 
 [ExecuteInEditMode]
 [AddComponentMenu("Image Effects/Desaturate")]
+
 public class DesaturateEffect : ImageEffectBase {
 	public float desaturateAmount;
 	public Texture textureRamp;

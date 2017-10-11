@@ -1,33 +1,25 @@
-Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: AMD Radeon R7 M260 (ID=0x6900)
-    Vendor:   ATI
-    VRAM:     2039 MB
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.096 seconds
-Platform assembly: C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\User\Documents\Taller\TallerMecanim\Build\TallerPapyrus_Data\Managed\System.dll (this message is harmless)
-OnLevelWasLoaded was found on XWeaponTrail
-This message has been deprecated and will be removed in a later version of Unity.
-Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
- 
-(Filename:  Line: 375)
-
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\ProyectosUnity\TallerPapyrus\TallerPapyrus\Build\TallerPapyrus_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.191 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
@@ -36,7 +28,11 @@ WARNING: Shader Unsupported: 'Enviro/BumpedDiffuseOverlaySM2' - Pass 'FORWARD' h
 WARNING: Shader Unsupported: 'Enviro/BumpedDiffuseOverlaySM2' - Pass 'PREPASS' has no vertex shader
 WARNING: Shader Unsupported: 'Enviro/BumpedDiffuseOverlaySM2' - Pass 'PREPASS' has no vertex shader
 WARNING: Shader Unsupported: 'Enviro/BumpedDiffuseOverlaySM2' - Pass 'DEFERRED' has no vertex shader
+WARNING: Shader Unsupported: 'Enviro/BumpedDiffuseOverlaySM2' - Pass 'META' has no vertex shader
 WARNING: Shader Unsupported: 'Enviro/BumpedDiffuseOverlaySM2' - All passes removed
-UnloadTime: 0.825833 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: bbc -> priority: 1 
+UnloadTime: 0.950083 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 5344 -> priority: 1 
+  Thread -> id: 4528 -> priority: 1 
+  Thread -> id: 5118 -> priority: 1 
+  Thread -> id: 21e4 -> priority: 1 
